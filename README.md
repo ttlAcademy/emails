@@ -24,7 +24,7 @@ Different types emails are listed. Some of them still is being built. We take in
   2. Register on site (account activated). [click to open](./registerOnSite.html)
   3. Password changed
   
-- ### Enterprise
+- ### Enterprise (Currently not in use)
 
   1. Enterprise Request
   2. New group invite
