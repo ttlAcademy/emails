@@ -11,7 +11,7 @@ Different types emails are listed. Some of them still is being built. We take in
 
 - ### Instructors
 
-  1. Become instructor (for admin)
+  1. Become instructor (Currently not in use, this email for admin)
   2. Announcement from Instructor [click to open](./announcement.html)
 
 - ### Lessons
