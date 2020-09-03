@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## All Emails by Group
 
-Different types emails are listed. Some of them still is being built. We take into consider different email clients such as gmail, outlook, outlook365 and mobile email clients.
+Different types emails are listed. Some of them still is being built. We take into consideration different email clients such as gmail, outlook, outlook365 and mobile email clients.
 
 
 - ### Instructors
