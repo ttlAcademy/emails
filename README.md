@@ -22,7 +22,7 @@ Different types emails are listed. Some of them still is being built. We take in
 
   1. Account Premoderation (first activation of account). [click to open](./activateAccount.html)
   2. Register on site (account activated). [click to open](./registerOnSite.html)
-  3. Password changed
+  3. Password changed (is being built)
   
 - ### Enterprise (Currently not in use)
 
@@ -33,15 +33,15 @@ Different types emails are listed. Some of them still is being built. We take in
   
 - ### Orders
 
-  1. New order (for admin)
-  2. New Order (for user)
+  1. New order (for admin) (is being built in woocommerce side)
+  2. New Order (for user) (is being built in woocommerce side)
   
 - ### Course
 
-  1. Course added to User (for admin)
-  2. Course added to User (for user)
+  1. Course added to User (for admin) (is being built)
+  2. Course added to User (for user) (is being built)
   
 - ### Assignment
 
-  1. Assignment status change (for student)
-  2. New assignment (for instructor)
+  1. Assignment status change (for student) (is being built)
+  2. New assignment (for instructor) (is being built)
