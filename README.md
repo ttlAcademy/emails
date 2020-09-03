@@ -34,7 +34,7 @@ Different types emails are listed. Some of them still is being built. We take in
 - ### Orders
 
   1. New order (for admin) (is being built in woocommerce side)
-  2. New Order (for user) (is being built in woocommerce side)
+  2. New Order (for user) (is being built in woocommerce side) [click to open](./newOrderUser.html)
   
 - ### Course
 
