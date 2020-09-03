@@ -22,7 +22,7 @@ Different types emails are listed. Some of them still is being built. We take in
 
   1. Account Premoderation (first activation of account). [click to open](./activateAccount.html)
   2. Register on site (account activated). [click to open](./registerOnSite.html)
-  3. Password changed (is being built)
+  3. Password changed [click to open](./passwordchange.html)
   
 - ### Enterprise (Currently not in use)
 
