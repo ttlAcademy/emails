@@ -21,7 +21,7 @@ Different types emails are listed. Some of them still is being built. We take in
 - ### Account
 
   1. Account Premoderation (first activation of account). [click to open](./activateAccount.html)
-  2. Register on site
+  2. Register on site (account activated). [click to open](./registerOnSite.html)
   3. Password changed
   
 - ### Enterprise
