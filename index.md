@@ -1,4 +1,4 @@
-# Welcome to ttl.academy emails
+# Welcome to ttl.academy [emails](./README.md)
 
 You can find all transactional and marketing emails used by ttl.academy below. Please feel free to contribute. 
 
