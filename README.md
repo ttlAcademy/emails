@@ -12,7 +12,7 @@ Different types emails are listed. Some of them still is being built. We take in
 - ### Instructors
 
   1. Become instructor
-  2. Announcement from Instructor
+  2. Announcement from Instructor [click to open](./announcement.html)
 
 - ### Lessons
 
