@@ -20,7 +20,7 @@ Different types emails are listed. Some of them still is being built. We take in
 
 - ### Account
 
-  1. Account Premoderation
+  1. Account Premoderation [This email](./activateAccount.html) will be sent during first activation of account.
   2. Register on site
   3. Password changed
   
