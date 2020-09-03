@@ -41,7 +41,7 @@ Different types emails are listed. Some of them still is being built. We take in
   1. Course added to User (for admin)
   2. Course added to User (for user)
   
-  - ### Assignment
+- ### Assignment
 
   1. Assignment status change (for student)
   2. New assignment (for instructor)
