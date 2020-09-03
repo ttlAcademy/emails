@@ -16,7 +16,7 @@ Different types emails are listed. Some of them still is being built. We take in
 
 - ### Lessons
 
-  1. New lesson comment
+  1. New lesson comment [click to open](./newComment.html)
 
 - ### Account
 
