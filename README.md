@@ -38,8 +38,8 @@ Different types emails are listed. Some of them still is being built. We take in
   
 - ### Course
 
-  1. Course added to User (for admin) (is being built)
-  2. Course added to User (for user) (is being built)
+  1. Course added to User (for admin)
+  2. Course added to User (for user) [click to open](./courseAdded.html)
   
 - ### Assignment
 
